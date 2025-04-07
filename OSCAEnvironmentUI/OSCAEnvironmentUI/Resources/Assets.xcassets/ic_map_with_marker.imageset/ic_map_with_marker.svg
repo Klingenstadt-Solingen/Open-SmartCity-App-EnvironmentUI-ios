@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-1.995 -1.387 53.412 51.547" width="50px" height="49.107px" xmlns="http://www.w3.org/2000/svg">
+  <g data-name="maps-pin-1">
+    <path d="M15.217 10.622v34.532" stroke-linejoin="round" stroke-linecap="round" stroke="#004373" style="fill: rgba(0, 0, 0, 0);"/>
+    <path d="M30.435 21.491V0" stroke-linejoin="round" stroke-linecap="round" stroke="#004373" data-name="Shape 40" style="fill: rgba(0, 0, 0, 0);"/>
+    <path d="m28.26 36.087-12.41 8.865a1.084 1.084 0 0 1-1.265 0L.455 34.86A1.088 1.088 0 0 1 0 33.974V1.863A1.086 1.086 0 0 1 1.72.98l13.497 9.642L29.802.206a1.09 1.09 0 0 1 1.265 0L45.197 10.3c.286.204.455.535.455.885v10.31" stroke-linejoin="round" stroke-linecap="round" stroke="#004373" style="fill: rgba(0, 0, 0, 0);"/>
+    <path d="M41.304 25.84A8.696 8.696 0 0 1 50 34.534c0 3.871-5.652 11.391-7.843 14.16a1.086 1.086 0 0 1-1.705 0c-2.191-2.769-7.843-10.289-7.843-14.16a8.696 8.696 0 0 1 8.695-8.696Z" stroke-linejoin="round" stroke-linecap="round" stroke="#004373" style="fill: rgba(0, 0, 0, 0);"/>
+    <path d="M41.304 37.796a3.262 3.262 0 0 0 0-6.522 3.262 3.262 0 0 0 0 6.522Z" stroke-linejoin="round" stroke-linecap="round" stroke="#004373" style="fill: rgba(0, 0, 0, 0);"/>
+  </g>
+</svg>
